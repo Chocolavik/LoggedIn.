@@ -1,0 +1,5 @@
+{
+  "name": "Chrome Extension Landing Page",
+  "description": "A clean, high-conversion landing page for downloading a Chrome Extension, modeled after Google's official design language.",
+  "requestFramePermissions": []
+}
